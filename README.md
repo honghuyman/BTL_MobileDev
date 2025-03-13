@@ -4,6 +4,7 @@ Welcome to the Augmented Reality Furniture App! 🎉 Step into a virtual showroo
 
 ### 🖼️ Preview
 
+https://github.com/user-attachments/assets/270e78ea-f660-4710-aeaf-a1b41aca43ec
 
 ### ⚡ Features
 
